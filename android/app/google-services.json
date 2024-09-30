@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400459643533",
+    "project_id": "plantum-7ad05",
+    "storage_bucket": "plantum-7ad05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400459643533:android:8686df9764fd99836280c4",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN2Gw4hVKOsqWbAfHMRlOIGvWHvOnIu88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
